@@ -112,7 +112,7 @@ def changing_alan
      
      alans_new_info = "GUI"
      programmer_hash[:alan Key][:known_for]["GUI"]
-     known_for
+    changing_alan
      
      
 end
